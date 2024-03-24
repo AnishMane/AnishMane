@@ -1,5 +1,25 @@
+<p align="center">
+  <img src="https://github.com/AnishMane/AnishMane/assets/112772218/c50d0063-9b05-459b-bcb1-8881acc5758e" alt="home-main (1)">
+</p>
+
+###
+
+<div align="center">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
+  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouza.maurodesouza&"  />
+</div>
+
 <h1 align="center">Hi 👋, I'm Anish Mane</h1>
 <h3 align="center">2nd Year Computer Science Student at Vellore Institute of Technology</h3>
+
+###
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
