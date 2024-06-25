@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anish Mane</h1>
-<h3 align="center">2nd Year Computer Science Student at Vellore Institute of Technology</h3>
+<h3 align="center">3rd Year Computer Science Student at Vellore Institute of Technology</h3>
 <img align="right" alt="Coding" width="400" src="https://github.com/AnishMane/AnishMane/assets/112772218/c50d0063-9b05-459b-bcb1-8881acc5758e">
 
 <h3 align="left">Connect with me:</h3>
