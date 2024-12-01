@@ -2,7 +2,7 @@ name: README build
 on:
   push:
     branches:
-      - changes
+      - main
   schedule:
     - cron: "0 0 * * *"
 jobs:
